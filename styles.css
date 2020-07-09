@@ -1,0 +1,44 @@
+/*******Tag Selectors****/
+body {
+    background-color:#92f574;
+  }
+  h1{
+    color: #66bfbf;
+  }
+  h3{
+    color:#fa5127;
+  }
+  hr{
+     
+     border-style: none;
+     border-top-style: dotted;
+     border-color: grey;
+     height: 0px;
+     border-width: 5px;
+     width: 5%;
+  }
+/*******Class Selectors********/
+
+.second{
+  color: #a5f78c;
+  background-color: #fa5127;
+  border-radius: 5px;
+}
+.second:hover{
+  color: blueviolet;
+  background-color: gold;
+  border-radius: 5px;
+}
+
+
+
+/******* ID Selectors *******/
+
+  #head
+  {
+    
+   color: #fa5127;
+  }
+  #head:hover{
+    color: blueviolet;
+  }
